@@ -5,7 +5,7 @@ Most of these have a NextJS, TailwindCSS and ShadCN bias since I use them the mo
 
 ### ShadCN components
 
-[ShadCN](https://ui.shadcn.com/) has a nice set of nicely designed components that gets copy-pasted directly into your codebase. Alongside this library, lots of other component systems follow a similar philosophy of "copy-paste into codebase".
+[ShadCN](https://ui.shadcn.com/) has a set of nicely designed components that gets copy-pasted directly into your codebase. Alongside this library, lots of other component systems follow a similar philosophy of "copy-paste into codebase".
 
 | Library     | Description | Links          |
 | :---        |    :----   |          :---: |
@@ -78,7 +78,7 @@ A lot of these are "React Native versions" of web libraries.
 | Library     | Description | Links          |
 | :---        |    :----   |          :---: |
 | Vercel's AI SDK      | An AI SDK to interface with a bunch of AI provides/models/modalities. | [link](https://ai-sdk.dev/)  |
-| AssistantUI| Great for complex LLM chatbots.| [link](https://www.assistant-ui.com/)|
+| AssistantUI| Great for complex LLM chatbot UIs.| [link](https://www.assistant-ui.com/)|
 
 ### APIs
 
@@ -91,7 +91,7 @@ A lot of these are "React Native versions" of web libraries.
 | Library     | Description | Links          |
 | :---        |    :----   |          :---: |
 | Convex      | A relatively new backend platform with a lot of developer support. | [link](https://www.convex.dev/)  |
-| Supabase      | A backend Postgres platform using Postgres, allows for direct SQL commands, row level security and Vector database. Has some really nice developer support. | [link](https://www.convex.dev/)  |
+| Supabase      | A backend Postgres platform using Postgres, allows for direct SQL commands, row level security and Vector database. Has some really nice developer support. | [link](https://supabase.com/)  |
 | AppWrite      | Very similar to Supabase, but has a simpler/easier to use permission system. | [link](https://appwrite.io/)  |
 | Firebase      | Google's PaaS, highly capable and connects well to other GCP products. | [link](https://firebase.google.com/)  |
 | Drizzle ORM      | A highly compatible database ORM connects to tons of platforms. | [link](https://orm.drizzle.team/)  |
@@ -102,7 +102,7 @@ A lot of these are "React Native versions" of web libraries.
 | Library     | Description | Links          |
 | :---        |    :----   |          :---: |
 | BetterAuth      | A framework agnostic TypeScript library. | [link](https://www.better-auth.com/)  |
-| Clerk      | Great developer support with pre-built components. | [link](https://www.better-auth.com/)  |
+| Clerk      | Great developer support with pre-built components. | [link](https://clerk.com/)  |
 | WorkOS      | Great industry support, could have better pricing than Clerk. | [link](https://workos.com/)  |
 
 ### State Management
@@ -143,5 +143,20 @@ Haven't used these platforms enough to know pros and cons but here's some strong
 ## Cool blogs and resources
 
 Manupa's blog post on the [anatomy of shadcn](https://manupa.dev/blog/anatomy-of-shadcn-ui).
+
+Good place to get inspiration for UI/UX: 
+
+[Mobbin](https://mobbin.com/)
+
+[Godly.Website](https://godly.website/)
+
+[Page Flows](https://pageflows.com/)
+
+[Fountn](https://fountn.design/)
+
+[DesignFuell](https://designfuell.com/)
+
+[LandBook](https://land-book.com/)
+
 
 Finally, here's another huge list [react components](https://github.com/brillout/awesome-react-components).
