@@ -146,6 +146,8 @@ Manupa's blog post on the [anatomy of shadcn](https://manupa.dev/blog/anatomy-of
 
 Good place to get inspiration for UI/UX: 
 
+[Brutalist Websites](https://brutalistwebsites.com/)
+
 [Mobbin](https://mobbin.com/)
 
 [Godly.Website](https://godly.website/)
