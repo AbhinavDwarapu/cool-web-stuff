@@ -1,5 +1,5 @@
 # My Super Cool Web Collection
-Some cool web libraries and designs and other web stuff I've been collecting :)
+Some web libraries and designs and other web stuff I've been collecting :)
 
 Most of these have a NextJS, TailwindCSS and ShadCN bias since I use them the most. 
 
@@ -143,6 +143,8 @@ Haven't used these platforms enough to know pros and cons but here's some strong
 ## Cool blogs and resources
 
 Manupa's blog post on the [anatomy of shadcn](https://manupa.dev/blog/anatomy-of-shadcn-ui).
+
+[Bulletproof-react](https://github.com/alan2207/bulletproof-react), a clean React repo to serve as inspiration on how to architect a React web app. 
 
 Good place to get inspiration for UI/UX: 
 
