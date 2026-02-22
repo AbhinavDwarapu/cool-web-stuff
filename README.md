@@ -49,6 +49,10 @@ Some good general web components/utilities.
 | :---        |    :----   |          :---: |
 | Google Fonts      | General collection of a bunch of fonts.       | [link](https://fonts.google.com/)  |
 | Redaction      | A beautifully made modern font inspired by historical documents.       | [link](https://www.redaction.us/)  |
+| Geist Pixel | Similar to Redaction, with a "matrix" based font | [link](https://vercel.com/font?type=pixel)|
+| Fontshare | A nice resource for free fonts | [link](https://fontshare.com/)|
+| Freefaces | ^ | [link](https://www.freefaces.gallery/)|
+| UNCUT | Another nice resource for fonts, more limited in selection | [link](https://uncut.wtf/)|
 
 
 
@@ -79,6 +83,7 @@ A lot of these are "React Native versions" of web libraries.
 | :---        |    :----   |          :---: |
 | Vercel's AI SDK      | An AI SDK to interface with a bunch of AI provides/models/modalities. | [link](https://ai-sdk.dev/)  |
 | AssistantUI| Great for complex LLM chatbot UIs.| [link](https://www.assistant-ui.com/)|
+| Streamdown | A markdown renderer, useful for rendering AI output | [link](https://streamdown.ai/)|
 
 ### APIs
 
@@ -161,6 +166,8 @@ Good place to get inspiration for UI/UX:
 [DesignFuell](https://designfuell.com/)
 
 [LandBook](https://land-book.com/)
+
+[Indieground](https://indieground.net/)
 
 
 Finally, here's another huge list [react components](https://github.com/brillout/awesome-react-components).
