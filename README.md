@@ -56,6 +56,8 @@ Some good general web components/utilities.
 
 Also, an interesting read about [But Head](https://blog.gitbutler.com/but-head-font) (GitButler's editorial font).
 
+Another resource about fonts currently in use for different use cases, [Fonts In Use](https://fontsinuse.com/).
+
 
 ### Component Library Bases
 These serve as nice base APIs to build out custom design systems. Useful for when you're building out a component library from scratch.
