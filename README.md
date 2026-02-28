@@ -49,11 +49,12 @@ Some good general web components/utilities.
 | :---        |    :----   |          :---: |
 | Google Fonts      | General collection of a bunch of fonts.       | [link](https://fonts.google.com/)  |
 | Redaction      | A beautifully made modern font inspired by historical documents.       | [link](https://www.redaction.us/)  |
-| Geist Pixel | Similar to Redaction, with a "matrix" based font | [link](https://vercel.com/font?type=pixel)|
+| Geist Pixel | Similar to Redaction's "block-iness", with a "matrix" based font | [link](https://vercel.com/font?type=pixel)|
 | Fontshare | A nice resource for free fonts | [link](https://fontshare.com/)|
 | Freefaces | ^ | [link](https://www.freefaces.gallery/)|
 | UNCUT | Another nice resource for fonts, more limited in selection | [link](https://uncut.wtf/)|
 
+Also, an interesting read about [But Head](https://blog.gitbutler.com/but-head-font) (GitButler's editorial font).
 
 
 ### Component Library Bases
