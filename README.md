@@ -35,6 +35,9 @@ Some good general web components/utilities.
 | Ibelick backgrounds      | HTML backgrounds.       | [link](https://bg.ibelick.com/)  |
 | Swapy      | A simple drag to swap library.       | [link](https://swapy.tahazsh.com/)  |
 | Fluid      | A tailwindCSS utility to smoothly transition between breakpoints.       | [link](https://fluid.tw/)  |
+| useHooks      | A collection of React hooks.       | [link](https://usehooks.com/)  |
+| Jared Lunde's React Hooks      | Some more React hooks, seems less maintained than the one above.       | [link](https://github.com/jaredLunde/react-hook)  |
+
 
 ### Animation Libraries
 
