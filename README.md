@@ -52,10 +52,10 @@ Some good general web components/utilities.
 | :---        |    :----   |          :---: |
 | Google Fonts      | General collection of a bunch of fonts.       | [link](https://fonts.google.com/)  |
 | Redaction      | A beautifully made modern font inspired by historical documents.       | [link](https://www.redaction.us/)  |
-| Geist Pixel | Similar to Redaction's "block-iness", with a "matrix" based font | [link](https://vercel.com/font?type=pixel)|
-| Fontshare | A nice resource for free fonts | [link](https://fontshare.com/)|
+| Geist Pixel | Similar to Redaction's "block-iness", with a "matrix" based font. | [link](https://vercel.com/font?type=pixel)|
+| Fontshare | A nice resource for free fonts. | [link](https://fontshare.com/)|
 | Freefaces | ^ | [link](https://www.freefaces.gallery/)|
-| UNCUT | Another nice resource for fonts, more limited in selection | [link](https://uncut.wtf/)|
+| UNCUT | Another nice resource for fonts, more limited in selection. | [link](https://uncut.wtf/)|
 
 Also, an interesting read about [But Head](https://blog.gitbutler.com/but-head-font) (GitButler's editorial font).
 
@@ -79,7 +79,7 @@ A lot of these are "React Native versions" of web libraries.
 | Library     | Description | Links          |
 | :---        |    :----   |          :---: |
 | React Native Reusables      | ShadCN-like for React Native. | [link](https://reactnativereusables.com/)  |
-| NativeWind     | TailwindCSS for React Native       | [link](https://www.nativewind.dev/)  |
+| NativeWind     | TailwindCSS for React Native.       | [link](https://www.nativewind.dev/)  |
 | Gluestack       | A cross platform UI library.       | [link](https://gluestack.io/)  |
 | RNUI       | Wix's React Native component library.       | [link](https://wix.github.io/react-native-ui-lib/)  |
 
@@ -89,13 +89,20 @@ A lot of these are "React Native versions" of web libraries.
 | :---        |    :----   |          :---: |
 | Vercel's AI SDK      | An AI SDK to interface with a bunch of AI provides/models/modalities. | [link](https://ai-sdk.dev/)  |
 | AssistantUI| Great for complex LLM chatbot UIs.| [link](https://www.assistant-ui.com/)|
-| Streamdown | A markdown renderer, useful for rendering AI output | [link](https://streamdown.ai/)|
+| Streamdown | A markdown renderer, useful for rendering AI output. | [link](https://streamdown.ai/)|
 
 ### APIs
 
 | Library     | Description | Links          |
 | :---        |    :----   |          :---: |
 | tRPC      | A end-to-end typesafe API library for TypeScript. Great for when you have control of both backend and frontend. | [link](https://trpc.io/)  |
+
+### TypeScript Libs/Helpers
+
+| Library     | Description | Links          |
+| :---        |    :----   |          :---: |
+| Better Result      | A Rust-like result type for better error handling. | [link](https://github.com/dmmulroy/better-result)  |
+| Effect      | Another Result-type for better error handling, and other utilities. | [link](https://effect.website/)  |
 
 ### Backends and DBs
 
