@@ -56,6 +56,7 @@ Some good general web components/utilities.
 | Fontshare | A nice resource for free fonts. | [link](https://fontshare.com/)|
 | Freefaces | ^ | [link](https://www.freefaces.gallery/)|
 | UNCUT | Another nice resource for fonts, more limited in selection. | [link](https://uncut.wtf/)|
+| Fraunces | Really fun 'Wonky' font. | [link](https://fraunces.undercase.xyz/)|
 
 Also, an interesting read about [But Head](https://blog.gitbutler.com/but-head-font) (GitButler's editorial font).
 
